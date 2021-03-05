@@ -53,4 +53,3 @@ private:
     stack<int> stackOut;
 
 };
-
